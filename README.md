@@ -6,7 +6,7 @@ enjoy using - and helping the team around me grow while we do it.
 
 **Website:** https://juliangiovanelli.com <br>
 **LinkedIn:** https://www.linkedin.com/in/julian-giovanelli-b42893164/ <br>
-**Email:** julian_giovanelli@hotmail.com
+**Email:** jjulian.giovanelli@gmail.com
 
 ---
 

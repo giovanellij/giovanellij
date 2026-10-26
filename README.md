@@ -20,5 +20,3 @@ enjoy using - and helping the team around me grow while we do it.
 #### Tech I work with
 `C#` `.NET / ASP.NET Core` `TypeScript` `Angular` `Node.js` `Java`
 `PostgreSQL` `MySQL` `SQL Server` `Docker` `Kubernetes` `GCP` `AWS` `Azure`
-
-> Currently Tech Lead at Viirtue, building ViiBE - a white-label quote-to-cash platform.
